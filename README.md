@@ -2,36 +2,37 @@
 VBA-Challenge Repo for Module2 due 10/10/24
 Instructions:
 
-Create a script that loops through all the stocks for each quarter and outputs the following information:
+1) Create a script that loops through all the stocks for each quarter and outputs the following information:
 
-  The ticker symbol
+  -The ticker symbol
 
-  Quarterly change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
+  -Quarterly change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
 
-  The percentage change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
+  -The percentage change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
 
-  The total stock volume of the stock.
+  -The total stock volume of the stock.
 
 
-Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
+2) Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
-Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
+3) Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
 
-Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
+4) Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
+
 
 
 skills:
 
-  Retrieval of Data
+  -Retrieval of Data
 
-  Column Creation
+  -Column Creation
 
-  Confitional Formatting
+  -Conditional Formatting
 
-  Looping Across Worksheet
+  -Looping Across Worksheet
 
-  Screenshots of Data
+  -Screenshots of Data
 
-  Separate VBA script files
+  -Separate VBA script files
 
-  Completed README file
+  -Completed README file
